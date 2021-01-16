@@ -10,8 +10,10 @@ certifi==2019.11.28
 cffi==1.13.0
 chardet==3.0.4
 clarifai==2.6.2
-conda==4.8.2
-conda-package-handling==1.6.0
+#conda==4.8.2
+#conda-package-handling==1.6.0
+conda
+conda-package-handling
 configparser==5.0.0
 cryptography==2.8
 cycler==0.10.0
